@@ -4,7 +4,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompilationTask
 import org.springframework.boot.gradle.dsl.SpringBootExtension
 
 plugins {
-  id("org.springframework.boot") version "3.3.5"
+  id("org.springframework.boot") version "3.4.3"
   id("io.spring.dependency-management") version "1.1.7"
   kotlin("jvm") version "2.1.0"
   kotlin("plugin.spring") version "2.1.0"
